@@ -1,5 +1,5 @@
 # University Timetable Scheduling Using Genetic Algorithm
-A research on creation of metaheuristic university class timetable scheduling solution.
+A simple university timetable generator using genetic algorithim and python libraries
 
 ### Installation:
 1. Clone repository.
